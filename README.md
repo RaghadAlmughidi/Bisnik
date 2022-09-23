@@ -5,13 +5,6 @@
 
 
 
-<div align="center">
-  <h3>
-    <a href="![](c:/Users/ralmu/OneDrive/Desktop/screencapture-6329ada2314e701b54af53d9-jade-jelly-140663-netlify-app-2022-09-20-15_21_34.png)">
-      Demo
-    </a>
-  </h3>
-</div>
 
 <!-- TABLE OF CONTENTS -->
 
@@ -25,7 +18,7 @@
 
 ## Overview
 
-![screenshot]("![](c:/Users/ralmu/OneDrive/Desktop/screencapture-6329ada2314e701b54af53d9-jade-jelly-140663-netlify-app-2022-09-20-15_21_34.png)")
+![screencapture-6329ada2314e701b54af53d9-jade-jelly-140663-netlify-app-2022-09-20-15_21_34](https://user-images.githubusercontent.com/52867161/192046449-38bf3af3-f2ba-4073-af46-30c79fa00687.png)
 
 ![Website Link]("https://6329ada2314e701b54af53d9--jade-jelly-140663.netlify.app/")
 
